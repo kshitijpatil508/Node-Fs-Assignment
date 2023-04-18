@@ -1,0 +1,9 @@
+$ not comment
+A lkajsdghfsadf
+Another line.
+B haskldhasdf
+C khahsdlhaDH
+Hello World!
+This is a sample text file.
+Z kaGSGDHAds
+oAPL
